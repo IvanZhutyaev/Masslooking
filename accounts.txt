@@ -1,0 +1,1 @@
+# Формат: api_id|api_hash|phone|proxy_json
