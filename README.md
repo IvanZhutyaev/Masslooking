@@ -158,7 +158,7 @@ Masslooking/
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+ATTENTION: This project is protected by a Limited Access License Agreement (LAA). Any use, copying, modification or distribution is strictly prohibited without a signed Permission Agreement from the owner.
 
 ## 🔄 Updates
 
