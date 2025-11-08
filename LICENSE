@@ -1,21 +1,62 @@
-MIT License
+RESTRICTED ACCESS LICENSE AGREEMENT (RALA)
+Copyright Holder (Licensor): [Your Name or Your Company Name]
+Project: [Your GitHub Project Name]
+Effective Date: [Date]
 
-Copyright (c) 2025 Ivan Zhutyaev
+PREAMBLE
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This Restricted Access License Agreement ("Agreement") sets forth the legally binding terms for your access to and use of the software, source code, documentation, and any associated materials (the "Project"), available at [URL to your GitHub repository]. Any person or entity ("User") who accesses, copies, or uses the Project agrees to be bound by the terms of this Agreement. If the User does not agree to these terms, they are strictly prohibited from any and all use of the Project.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. RESERVATION OF RIGHTS
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The Copyright Holder is and remains the sole and exclusive owner of all right, title, and interest in and to the Project, including all copyrights, patents, trade secrets, trademarks, and any other intellectual property rights therein. All rights not expressly granted herein are reserved by the Copyright Holder.
+
+2. STRICT PROHIBITION ON USE
+
+Any and all use of the Project is STRICTLY PROHIBITED unless a separate Permission Document (as defined in Section 3) is in effect. Prohibited acts include, but are not limited to:
+
+Copying, modifying, adapting, translating, or creating derivative works based on the Project.
+
+Distributing, publishing, transmitting, selling, licensing, sublicensing, renting, leasing, or otherwise transferring or making the Project available to any third party.
+
+Reverse engineering, decompiling, disassembling, or attempting to derive the source code of the Project.
+
+Using the Project, in whole or in part, for any commercial or non-commercial purpose.
+
+Incorporating the Project into another software, product, or service.
+
+Any other use, exploitation, or action not explicitly authorized by a valid Permission Document.
+
+3. SOLE CONDITION FOR USE: THE PERMISSION DOCUMENT
+
+The only way to obtain any rights to use the Project is through a separate, specific, and written document issued directly by the Copyright Holder ("Permission Document").
+
+Any valid Permission Document MUST:
+
+Be explicitly identified as a "Permission Document" under this RALA.
+
+Be signed by both the Copyright Holder and the User.
+
+Clearly define the scope of the granted rights, including the specific purposes, duration, and any other limitations of the use.
+
+Take precedence over the prohibitions in Section 2 only to the extent explicitly stated within the Permission Document itself.
+
+4. NO WARRANTIES
+
+THE PROJECT IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. THE COPYRIGHT HOLDER EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+5. LIMITATION OF LIABILITY
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY DAMAGES WHATSOEVER, ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE PROJECT, EVEN IF THE COPYRIGHT HOLDER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+6. BREACH AND TERMINATION
+
+Any violation of this Agreement or the terms of a Permission Document will result in the immediate and automatic termination of all granted rights. Upon termination, the User must cease all use and destroy all copies of the Project and any related materials. The Copyright Holder reserves the right to pursue all available legal remedies, including seeking injunctive relief and claiming damages, for any breach of this Agreement.
+
+7. GOVERNING LAW AND JURISDICTION
+
+This Agreement shall be governed by and construed in accordance with the laws of [Your Country/State, e.g., England and Wales or the State of New York], without regard to its conflict of law principles. Any legal action or proceeding arising under this Agreement shall be brought exclusively in the courts located in [Your City/Region, e.g., London, England], and the parties hereby consent to the personal jurisdiction and venue of such courts.
+
+FINAL PROVISION
+
+BY ACCESSING, COPYING, DOWNLOADING, OR USING THE PROJECT IN ANY MANNER, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE UNCONDITIONALLY TO BE BOUND BY ITS TERMS AND CONDITIONS. IF YOU DO NOT ACCEPT THESE TERMS IN THEIR ENTIRETY, YOU HAVE NO RIGHT TO USE THE PROJECT AND MUST CEASE ALL INTERACTION WITH IT IMMEDIATELY.
